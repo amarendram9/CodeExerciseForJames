@@ -7,3 +7,4 @@
 
 //I created a dummy payment service with ValidateCreditCard and ChargePayment methods and assume it returns true.
 
+Note: You need visual studio to test this exercise.
